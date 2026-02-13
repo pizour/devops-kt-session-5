@@ -1,5 +1,5 @@
 [staging]
-134.112.11.153
+134.112.41.130
 
 [all:vars]
 ansible_user=azureuser
